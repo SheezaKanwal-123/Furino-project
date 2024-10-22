@@ -1,0 +1,51 @@
+.container{
+    padding: 0;
+    margin: 0;
+}
+
+
+.container{
+background-color: antiquewhite;
+position: fixed;
+display:flex ;
+justify-content: space-between;
+height: 100px;
+width: 1440px;
+}
+.logo{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+span{
+    position: relative;
+    left: 20px;
+}
+
+img{
+    height: 60px;
+    width: 50px;
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+a{
+    text-decoration: none;
+    color: rgb(5, 5, 5);
+    right: 100px;
+    font-size: 20px;
+    position: relative;
+}
+li{
+    list-style-type: none;
+    display: inline;
+    padding: 20px;
+    position: relative;
+    top: 25px;
+    
+    text-align: center;
+}
+.list{
+    position: relative;
+
+}
